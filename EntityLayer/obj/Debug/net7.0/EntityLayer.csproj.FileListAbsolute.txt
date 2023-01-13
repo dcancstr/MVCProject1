@@ -1,0 +1,12 @@
+/Users/dcancstr/Projects/MyProject/EntityLayer/bin/Debug/net7.0/EntityLayer.deps.json
+/Users/dcancstr/Projects/MyProject/EntityLayer/bin/Debug/net7.0/EntityLayer.dll
+/Users/dcancstr/Projects/MyProject/EntityLayer/bin/Debug/net7.0/EntityLayer.pdb
+/Users/dcancstr/Projects/MyProject/EntityLayer/obj/Debug/net7.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/dcancstr/Projects/MyProject/EntityLayer/obj/Debug/net7.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dcancstr/Projects/MyProject/EntityLayer/obj/Debug/net7.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/dcancstr/Projects/MyProject/EntityLayer/obj/Debug/net7.0/EntityLayer.AssemblyInfo.cs
+/Users/dcancstr/Projects/MyProject/EntityLayer/obj/Debug/net7.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/dcancstr/Projects/MyProject/EntityLayer/obj/Debug/net7.0/EntityLayer.dll
+/Users/dcancstr/Projects/MyProject/EntityLayer/obj/Debug/net7.0/refint/EntityLayer.dll
+/Users/dcancstr/Projects/MyProject/EntityLayer/obj/Debug/net7.0/EntityLayer.pdb
+/Users/dcancstr/Projects/MyProject/EntityLayer/obj/Debug/net7.0/ref/EntityLayer.dll

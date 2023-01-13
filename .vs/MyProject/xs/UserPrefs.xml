@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{89FC4861-7F09-40F0-93D3-6F548FD4270D}|https" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.ItemProperties.MyProject PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityLayer/Concrete/Category.cs">
+    <Files>
+      <File FileName="BusinessLayer/Concrete/CategoryManager.cs" />
+      <File FileName="MyProject/Controllers/HomeController.cs" />
+      <File FileName="MyProject/Controllers/Category.cs" />
+      <File FileName="DataAccessLayer/Abstract/IBlogDal.cs" />
+      <File FileName="DataAccessLayer/Repositories/BlogRepository.cs" />
+      <File FileName="DataAccessLayer/Repositories/CategoryRepository.cs" />
+      <File FileName="DataAccessLayer/Repositories/CommentRepository.cs" />
+      <File FileName="DataAccessLayer/Repositories/GenericRepository.cs" />
+      <File FileName="MyProject/Views/Home/Index.cshtml" />
+      <File FileName="EntityLayer/Concrete/Category.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyProject" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CoreLayer FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
